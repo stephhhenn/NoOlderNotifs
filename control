@@ -1,0 +1,9 @@
+Package: com.stephhhenn.nooldernotifs
+Name: NoOlderNotifs
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Stephen
+Author: Stephen
+Section: Tweaks
